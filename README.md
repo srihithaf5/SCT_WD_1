@@ -60,3 +60,6 @@ Run index.html in your browser.
 
 <img width="1877" height="940" alt="image" src="https://github.com/user-attachments/assets/9b822b7a-61de-491f-bbf7-746ad612e145" />
 
+<img width="1860" height="952" alt="image" src="https://github.com/user-attachments/assets/f573f5c6-1004-42e1-9fd2-64beddc92e8d" />
+
+<img width="1863" height="1325" alt="image" src="https://github.com/user-attachments/assets/9c537448-7d9c-4e2e-9799-90c7f7d3ddba" />

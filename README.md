@@ -57,3 +57,6 @@ SCT_WD_1/
 
 Open the project folder.
 Run index.html in your browser.
+
+<img width="1877" height="940" alt="image" src="https://github.com/user-attachments/assets/9b822b7a-61de-491f-bbf7-746ad612e145" />
+
